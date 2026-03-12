@@ -17,3 +17,5 @@ decimal comissao = totalVendas * (percentual / 100);
 decimal salarioTotal = salarioBase + comissao;
 
 Console.Write($"A comisssão é {comissao}.O total do salário do mês é : {salarioTotal}");
+
+Console.ReadLine();
