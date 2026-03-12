@@ -8,8 +8,6 @@ string nome = Console.ReadLine();
 Console.Write("Informe a sua idade: ");
 int idade = Convert.ToInt32(Console.ReadLine());
 
-int ano = 365;
-
 int diasDeVida = idade * 365;
 
 Console.WriteLine($"{nome}, você ja viveu {diasDeVida} dias!");

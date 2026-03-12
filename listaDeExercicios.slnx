@@ -10,4 +10,5 @@
   <Project Path="exercicio09/exercicio09.csproj" />
   <Project Path="exercicio10/exercicio10.csproj" />
   <Project Path="exercicio11/exercicio11.csproj" />
+  <Project Path="exercicio12/exercicio12.csproj" />
 </Solution>
