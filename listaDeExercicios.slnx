@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="ListaDeExercicios/exercicio01.csproj" />
+  <Project Path="exercicio01/exercicio01.csproj" />
+  <Project Path="exercicio02/exercicio02.csproj" />
+  <Project Path="exercicio03/exercicio03.csproj" />
 </Solution>
