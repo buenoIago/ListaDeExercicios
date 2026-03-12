@@ -7,4 +7,7 @@
   <Project Path="exercicio06/exercicio06.csproj" />
   <Project Path="exercicio07/exercicio07.csproj" />
   <Project Path="exercicio08/exercicio08.csproj" />
+  <Project Path="exercicio09/exercicio09.csproj" />
+  <Project Path="exercicio10/exercicio10.csproj" />
+  <Project Path="exercicio11/exercicio11.csproj" />
 </Solution>
