@@ -18,3 +18,5 @@ decimal p2 = Convert.ToDecimal(Console.ReadLine());
 decimal mediaPonderada = ((n1 * p1) + (n2 * p2)) / (p1 + p2);
 
 Console.WriteLine($"A média ponderada é {mediaPonderada.ToString("F2")}");
+
+Console.ReadLine();
